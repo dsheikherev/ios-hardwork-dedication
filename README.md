@@ -5,4 +5,7 @@ There is good advice:
 >
 > This way, you will keep in mind all the details and nuances.
 
-* [Memory Layout](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/MemoryLayout/MemoryLayout.md)
+* Tips & Tricks
+  * [defer](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/defer.md)
+* Memory
+  * [Memory Layout](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Memory/MemoryLayout.md)
