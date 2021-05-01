@@ -5,6 +5,8 @@ There is good advice:
 >
 > This way, you will keep in mind all the details and nuances.
 
+## __Contents__:
+
 * Tips & Tricks
   * [defer](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/defer.md)
 * Memory
