@@ -13,6 +13,7 @@ There is good advice:
   * [weak self in Closures](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/weakSelfClosure.md)
   * [Application Lifecycle](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/applicationLifeCycle.md)
   * [Breakpoints Log Messages](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/breakPointLogMessage.md)
+  * [Visual Format Language](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/visualFormatLanguage.md)
 * Memory
   * [Memory Layout](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Memory/MemoryLayout.md)
 * Attributes
