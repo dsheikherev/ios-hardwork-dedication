@@ -8,13 +8,16 @@ There is good advice:
 ## __Contents__:
 
 * Tips & Tricks
-  * [defer](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/defer.md)
-  * [Reserved Keywords](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/reservedKeywords.md)
-  * [weak self in Closures](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/weakSelfClosure.md)
-  * [Application Lifecycle](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/applicationLifeCycle.md)
-  * [Breakpoints Log Messages](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/breakPointLogMessage.md)
-  * [Visual Format Language](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Tips%26Tricks/visualFormatLanguage.md)
+  * [defer](Tips%26Tricks/defer.md)
+  * [Reserved Keywords](Tips%26Tricks/reservedKeywords.md)
+  * [weak self in Closures](Tips%26Tricks/weakSelfClosure.md)
+  * [Application Lifecycle](Tips%26Tricks/applicationLifeCycle.md)
+  * [Breakpoints Log Messages](Tips%26Tricks/breakPointLogMessage.md)
+  * [Visual Format Language](Tips%26Tricks/visualFormatLanguage.md)
+  * [Useful Log Messages](Tips%26Tricks/useful_log_messages.md)
+* Swizzling
+  * [ObjC Swizzling](Swizzling/objc.md)
 * Memory
-  * [Memory Layout](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Memory/MemoryLayout.md)
+  * [Memory Layout](Memory/MemoryLayout.md)
 * Attributes
-  * [Swift Attributes](https://github.com/dsheikherev/ios-hardwork-dedication/blob/main/Attributes/Attributes.md)
+  * [Swift Attributes](Attributes/Attributes.md)
